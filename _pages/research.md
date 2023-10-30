@@ -9,6 +9,7 @@ Local Newspaper Closures and Discrimination in Consumer Lending
 ---------
 [Job Market Paper]
 
+
 Working Papers
 ======
 
