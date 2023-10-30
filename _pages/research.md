@@ -8,8 +8,9 @@ author_profile: true
 Work in progress
 ======
 
-Local Newspaper Closures and Discrimination in Consumer Lending (Job Market Paper)
+Local Newspaper Closures and Discrimination in Consumer Lending.
 ---------
+[Job Market Paper]
 
 
 Working papers
