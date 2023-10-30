@@ -15,8 +15,9 @@ Local Newspaper Closures and Discrimination in Consumer Lending (Job Market Pape
 Working papers
 ======
 
-Financial Literacy and Mortgage Payment Delinquency, [Jena Economic Research Papers 2023-007](https://ideas.repec.org/p/jrp/jrpwrp/2023-007.html)
+Financial Literacy and Mortgage Payment Delinquency, 
 ------
+[Jena Economic Research Papers 2023-007](https://ideas.repec.org/p/jrp/jrpwrp/2023-007.html)
 This study investigates the causal effect of financial literacy on mortgage payment delinquency. Using an Instrumental-Variable (IV) approach, we find that increased financial literacy significantly reduces the probability of mortgage delinquency. The identified causal effect is robust to different specifications of the IV and cannot be explained by formal education, income, and many other individual characteristics. Our study also examines the heterogeneity of the impact across various demographic groups. We find that the effect of financial literacy on delinquency likelihood is negative and significantly different from zero for any age, gender, income, or education level. However, the magnitude of the effect decreases with age and is higher in states where the population’s financial literacy is low compared to states with high levels of financial literacy.
 
 Early Warning Models for Systemic Banking Crises: Can Political Indicators Improve Prediction? [R&R]
