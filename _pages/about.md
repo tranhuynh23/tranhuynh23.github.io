@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage!"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student in Economics at Friedrich Schiller University Jena. 
+Welcome to my webpage! I am a PhD student in Economics at Friedrich Schiller University Jena. 
 
 My main research interests are in financial economics and empirical banking, with a strong focus on the mortgage market and the social impacts of its related regulations, practices, and behaviours. I am also interested in politics, history, and their relation to contemporary economic issues.
 
