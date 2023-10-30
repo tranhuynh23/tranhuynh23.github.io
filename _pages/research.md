@@ -4,9 +4,8 @@ title: "Work in Progress"
 permalink: /research/
 author_profile: true
 ---
-Local Newspaper Closures and Discrimination in Consumer Lending
+Local Newspaper Closures and Discrimination in Consumer Lending [Job Market Paper]
 ---------
-[Job Market Paper]
 
 
 
