@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tran Huynh"
+title                    : "Tran Huynh's Homepage"
 title_separator          : "-"
 name                     : &name "Tran Huynh"
 description              : &description ""
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Tran Huynh"
-  avatar           : "profile.png"
-  bio              : "tran.huynh@uni-jena.de"
-  location         : 
-  employer         :
+  avatar           : "tranhuynh.jpg"
+  bio              : "PhD student"
+  location         : "Jena, Germany"
+  employer         : "Friedrich Schiller University Jena"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "tran.huynh@uni-jena.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -175,10 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
-  CV:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
