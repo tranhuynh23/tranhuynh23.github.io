@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tran Huynh"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tran Huynh"
 description              : &description "© 2023 Tran Huynh"
