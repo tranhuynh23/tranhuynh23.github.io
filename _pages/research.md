@@ -13,6 +13,7 @@ Abstract: This study provides a novel attempt to assess whether an early warning
 
 Working Papers
 ======
+
 [Financial Literacy and Mortgage Payment Delinquency](https://www.dropbox.com/scl/fi/zdyojgf0iatrcv26ecqvj/20231030_FLPaper.pdf?rlkey=17jriew91fphhkfegn8i5sq9h&dl=0) 
 ------
 Jena Economic Research Paper 2023-007
@@ -22,6 +23,7 @@ Abstract: This study investigates the causal effect of financial literacy on mor
 
 Work in Progress
 ======
+
 Local Newspaper Closures and Discrimination in Consumer Lending
 ---------
 [Job Market Paper]
