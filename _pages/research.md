@@ -10,6 +10,9 @@ Local Newspaper Closures and Discrimination in Mortgage Lending
 
 Draft coming soon
 
+Description: In this project, I investigate how local newspaper closures affect discrimination against minority borrowers in the US mortgage lending market. A long line of literature has found that with similar credit scores and loan attributes, black and Hispanic loan applicants are more likely to be rejected or to pay higher interest rates than white applicants. I depart from the literature by examining how shocks to local media coverage (e.g., the closure of local newspapers) affect such discrimination. Recent research shows that local newspapers effectively monitor corporate fraud and mitigate information frictions in public lending. Based on existing evidence, I hypothesize that a decline in local media coverage will likely exacerbate the interest rate gap between minority and non-minority borrowers.
+
+
 Working Paper
 ======
 
