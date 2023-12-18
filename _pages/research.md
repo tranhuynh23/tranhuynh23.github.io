@@ -15,7 +15,7 @@ Working Paper
 
 [Financial Literacy and Mortgage Payment Delinquency](https://www.dropbox.com/scl/fi/zdyojgf0iatrcv26ecqvj/20231030_FLPaper.pdf?rlkey=17jriew91fphhkfegn8i5sq9h&dl=0) 
 ------
-New version coming soon
+Latest version [here](https://www.dropbox.com/scl/fi/zdyojgf0iatrcv26ecqvj/20231030_FLPaper.pdf?rlkey=17jriew91fphhkfegn8i5sq9h&dl=0)
 
 [Jena Economic Research Paper 2023-007](https://ideas.repec.org/p/jrp/jrpwrp/2023-007.html)
 
