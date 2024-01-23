@@ -22,7 +22,7 @@ Abstract: Almost two decades after the Great Recession hit the US economy, the U
 Publication
 ======
 
-[Early Warning Models for Systemic Banking Crises: Can Political Indicators Improve Prediction?](https://www.dropbox.com/scl/fi/vx6ajogds2cut9hrthhph/20230908_EWSPaper.pdf?rlkey=q2eoyxphx3val8vplobiyo4vq&dl=0) 
+[Early Warning Models for Systemic Banking Crises: Can Political Indicators Improve Prediction?](https://www.sciencedirect.com/science/article/pii/S0176268023001283) 
 ------
 with [Silke Uebelmesser](https://sites.google.com/view/silkeuebelmesser/home), European Journal of Political Economy (forthcoming)
 
