@@ -14,7 +14,7 @@ Description: I examine how local newspaper closures affect discrimination agains
 Working Paper
 ======
 
-[Financial Literacy and Mortgage Payment Delinquency](https://www.dropbox.com/scl/fi/lvxyu79dfbd1nffkvm7gj/20240109_FLPaper.pdf?rlkey=ikpx3n34v8t2ppcq2dba2cdkh&dl=0)
+[Financial Literacy and Mortgage Payment Delinquency](https://www.dropbox.com/scl/fi/qhhhz255dtwbcbbghcijk/20240308_FL_Paper.pdf?rlkey=i4pnq2xdum1unt8nwszxj4muv&dl=0)
 ------
 
 Abstract:  Financial literacy plays an increasingly important role in determining various economic and financial outcomes. This paper examines the causal effect of financial literacy on mortgage delinquency. Using various instrumental variable (IV) strategies, I find that increased financial literacy significantly reduces mortgage delinquency. This effect cannot be explained by adverse life events, negative equity, and many individual characteristics. In addition, I show that overconfidence is positively correlated with the probability of delinquency. The negative effect of financial literacy on mortgage delinquency is significantly larger for overconfident individuals than for those who are not overconfident. These findings have important implications for policy and research on the role of financial literacy and overconfidence in personal finance.
