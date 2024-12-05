@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome! I am a PhD student in Economics at [Friedrich Schiller University Jena](https://www.uni-jena.de/en). 
+Welcome! I am a Career Development Fellow in Finance at [Durham University Business School](https://www.durham.ac.uk/business/). 
 
 My primary research interests are in financial economics and empirical banking, with a strong focus on mortgage markets, including their regulation, lending practices, borrowing and debt repayment behaviour. I am also interested in politics and history and their relationship to contemporary economic issues.
 
