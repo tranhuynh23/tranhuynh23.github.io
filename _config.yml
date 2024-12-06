@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tran's Homepage"
 title_separator          : "-"
 name                     : &name "Tran Huynh"
-description              : &description "© 2023 Tran Huynh"
+description              : &description "© 2024 Tran Huynh"
 url                      : https://tranhuynh23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tranhuynh23/tranhuynh23.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Tran Huynh"
   avatar           : "tranhuynh.jpg"
   bio              : "PhD student"
-  location         : "Jena, Germany"
+  location         : "Durham, UK"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=p7F97TEAAAAJ&view_op=list_works&gmla=AJ1KiT3x8e-vr-2Hzq2vRBG_P73jqmSeUhSaEB4wUJiBwDxb1dCmjNUoH2hHOCpjYVR9mRsb8-eINgmaJuRxC4y5"
-  email            : "tran.huynh@uni-jena.de"
+  email            : "tran.huynh@durham.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Tran-Huynh-4"
   uri              :
   bitbucket        :
