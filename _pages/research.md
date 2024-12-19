@@ -6,7 +6,7 @@ author_profile: true
 ---
 Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending
 ---------
-[Job Market Paper]
+[Draft coming soon]
 
 Abstract: Local newspapers in the United States have declined significantly in recent years, raising serious concerns about several community issues that rely on the investigative reporting of local journalism. This paper examines the extent to which local newspaper closures affect discrimination against minority borrowers in mortgage lending. I find that following a newspaper closure, interest rate differentials between minority (black or Hispanic) and comparable non-minority borrowers increase by 5.5 basis points, widening the existing gap in mortgage outcomes between the two groups. This effect cannot be explained by differences in credit risk or underlying economic conditions. My findings suggest that the local press plays an important role in monitoring lending practices and reducing information asymmetries in the mortgage market.
 
