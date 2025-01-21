@@ -6,7 +6,7 @@ author_profile: true
 ---
 [Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html)
 -------
-JERP No. 2025-002
+JERP 2025-002
 
 Abstract: This paper examines the extent to which local newspaper closures affect discrimination against minority borrowers in mortgage lending. I find that following a newspaper closure, interest rate differentials between minority (black or Hispanic) and comparable non-minority borrowers increase by 5.5 basis points, widening the existing gap in mortgage outcomes between the two groups. This effect cannot be explained by differences in credit risk or underlying economic conditions. My findings suggest that the local press plays an important role in monitoring lending practices and reducing information asymmetries in the mortgage market.
 
