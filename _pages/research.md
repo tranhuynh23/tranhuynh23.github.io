@@ -1,18 +1,15 @@
 ---
 layout: archive
-title: "Work in Progress"
+title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
-Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending
----------
-[Draft coming soon]
+[Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html)
+-------
+JERP No. 2025-002
 
 Abstract: This paper examines the extent to which local newspaper closures affect discrimination against minority borrowers in mortgage lending. I find that following a newspaper closure, interest rate differentials between minority (black or Hispanic) and comparable non-minority borrowers increase by 5.5 basis points, widening the existing gap in mortgage outcomes between the two groups. This effect cannot be explained by differences in credit risk or underlying economic conditions. My findings suggest that the local press plays an important role in monitoring lending practices and reducing information asymmetries in the mortgage market.
 
-
-Working Paper
-======
 
 [Financial Literacy and Mortgage Payment Delinquency](https://dx.doi.org/10.2139/ssrn.4770596)
 ------
@@ -20,7 +17,7 @@ SSRN 4770596
 
 Abstract:  Financial literacy plays an increasingly important role in determining various economic and financial outcomes. This paper examines the causal effect of financial literacy on mortgage delinquency. Using various instrumental variable (IV) strategies, I find that increased financial literacy significantly reduces mortgage delinquency. This effect cannot be explained by adverse life events, negative equity, and many individual characteristics. In addition, I show that overconfidence is positively correlated with the probability of delinquency. For overconfident individuals, the negative effect of financial literacy on mortgage delinquency is more than double the effect for those who are not overconfident. These findings have important implications for policy and research on the role of financial literacy and overconfidence in personal finance.
 
-Publication
+Publications
 ======
 
 [Early Warning Models for Systemic Banking Crises: Can Political Indicators Improve Prediction?](https://www.sciencedirect.com/science/article/pii/S0176268023001283?via%3Dihub) 
