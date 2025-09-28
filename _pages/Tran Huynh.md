@@ -11,6 +11,6 @@ redirect_from:
 
 Welcome! I am a Career Development Fellow in Finance at [Durham University Business School](https://www.durham.ac.uk/business/). 
 
-My primary research interests are in financial economics and empirical banking, with a strong focus on mortgage markets, including their regulation, lending practices, borrowing and debt repayment behaviour. I am also interested in politics and history and their relationship to contemporary economic issues.
+My research focuses on financial economics and empirical banking, with a particular emphasis on mortgage markets — including regulation, lending practices, and household borrowing and repayment behavior. I am also interested in the intersections of politics, history, and contemporary economic challenges. 
 
 You can find my CV [here](https://tranhuynh23.github.io/files/CV_Tran_Huynh.pdf).
