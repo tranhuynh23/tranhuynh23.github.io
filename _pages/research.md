@@ -6,9 +6,9 @@ author_profile: true
 ---
 [The Price of Silence: Local Newspaper Closures and Mortgage Pricing](https://www.dropbox.com/scl/fi/orstwq78g4v6kx4lkgvjt/MMP_20251125.pdf?rlkey=tbwxc97882yadayzqvjtfea1m&st=qswkobso&dl=0)
 -------
-with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/)
+with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/), Submitted.
 
-Old version, JERP 2025-002: [Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html) 
+Old version: Huynh, Tran (2025). [Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html),JERP 2025-002.
 
 Abstract: Do declines in local newspapers affect the cost of mortgages? Exploiting the staggered closure of local newspapers across US counties, we find that mortgage costs rise for local residents by 5.5 basis points (bps) following a closure. The effects are strongest for groups that rely more heavily on local newspapers for information, such as minority borrowers, older generations, communities with fewer newspaper outlets, and areas with limited digital networks. This evidence indicates that the local press serves as a watchdog and mitigates information asymmetries in mortgage markets. We rule out that our results are driven by borrowers’ credit risk or local economic or demographic conditions, and we show that such conditions do not systematically drive local newspaper closures.
 
