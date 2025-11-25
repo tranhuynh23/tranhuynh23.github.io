@@ -4,11 +4,13 @@ title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
-[Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html)
+[The Price of Silence: Local Newspaper Closures and Mortgage Pricing](https://www.dropbox.com/scl/fi/orstwq78g4v6kx4lkgvjt/MMP_20251125.pdf?rlkey=tbwxc97882yadayzqvjtfea1m&st=qswkobso&dl=0)
 -------
-JERP 2025-002
+with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/)
 
-Abstract: This paper examines the extent to which local newspaper closures affect discrimination against minority borrowers in mortgage lending. I find that following a newspaper closure, interest rate differentials between minority (black or Hispanic) and comparable non-minority borrowers increase by 5.5 basis points, widening the existing gap in mortgage outcomes between the two groups. This effect cannot be explained by differences in credit risk or underlying economic conditions. My findings suggest that the local press plays an important role in monitoring lending practices and reducing information asymmetries in the mortgage market.
+Old version, JERP 2025-002: [Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html) 
+
+Abstract: Do declines in local newspapers affect the cost of mortgages? Exploiting the staggered closure of local newspapers across US counties, we find that mortgage costs rise for local residents by 5.5 basis points (bps) following a closure. The effects are strongest for groups that rely more heavily on local newspapers for information, such as minority borrowers, older generations, communities with fewer newspaper outlets, and areas with limited digital networks. This evidence indicates that the local press serves as a watchdog and mitigates information asymmetries in mortgage markets. We rule out that our results are driven by borrowers’ credit risk or local economic or demographic conditions, and we show that such conditions do not systematically drive local newspaper closures.
 
 
 [Financial Literacy and Mortgage Payment Delinquency](https://dx.doi.org/10.2139/ssrn.4770596)
