@@ -6,9 +6,11 @@ author_profile: true
 ---
 [The Price of Silence: Local Newspaper Closures and Mortgage Pricing](https://www.dropbox.com/scl/fi/orstwq78g4v6kx4lkgvjt/MMP_20251125.pdf?rlkey=tbwxc97882yadayzqvjtfea1m&st=qswkobso&dl=0)
 ------
+Submitted.
+
 with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/).
 
-Submitted.
+
 
 Old version: Huynh, T. (2025). [Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html), JERP 2025-002.
 
@@ -26,9 +28,9 @@ Publications
 
 [Early Warning Models for Systemic Banking Crises: Can Political Indicators Improve Prediction?](https://www.sciencedirect.com/science/article/pii/S0176268023001283?via%3Dihub) 
 ------
-with [Silke Uebelmesser](https://sites.google.com/view/silkeuebelmesser/home). 
-
 European Journal of Political Economy, 2024, Volume 81, Article 102484.
+
+with [Silke Uebelmesser](https://sites.google.com/view/silkeuebelmesser/home). 
 
 Abstract: This study provides a novel attempt to assess whether an early warning system (EWS) for systemic banking crises can produce better predictions when political indicators are used alongside traditional macro-financial indicators. Based on a dataset covering 32 advanced economies for the period 1975-2017, we show that the inclusion of political indicators significantly improves the predictive performance of EWS. Our results suggest several channels, related to the role of constitutions and policy predictability, through which the political environment could affect the stability of a banking system. In particular, we find that majority governments, left-wing governments, and a longer time in office of the executive party are negatively correlated with systemic risk. This is robust to a large number of different specifications. Furthermore, we find that long-established institutional systems and plurality electoral systems (compared to proportional representation systems) are associated with a lower likelihood of crises. At the same time, crises are more likely when the incumbent government represents a nationalist platform.
 
