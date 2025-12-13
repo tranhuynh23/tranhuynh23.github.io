@@ -4,8 +4,9 @@ title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
-[The Price of Silence: Local Newspaper Closures and Mortgage Pricing](https://www.dropbox.com/scl/fi/orstwq78g4v6kx4lkgvjt/MMP_20251125.pdf?rlkey=tbwxc97882yadayzqvjtfea1m&st=qswkobso&dl=0), with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/).
-
+[The Price of Silence: Local Newspaper Closures and Mortgage Pricing](https://www.dropbox.com/scl/fi/orstwq78g4v6kx4lkgvjt/MMP_20251125.pdf?rlkey=tbwxc97882yadayzqvjtfea1m&st=qswkobso&dl=0), 
+------
+with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/).
 Submitted.
 
 Old version: Huynh, T. (2025). [Lending in the Dark: Local Newspaper Closures and Discrimination in Mortgage Lending](https://ideas.repec.org/p/jrp/jrpwrp/2025-0002.html), JERP 2025-002.
