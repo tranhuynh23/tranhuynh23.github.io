@@ -4,7 +4,7 @@ title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
-[The Price of Silence: Local Newspaper Closures and Mortgage Pricing]
+The Price of Silence: Local Newspaper Closures and Mortgage Pricing
 ------
 Submitted
 
