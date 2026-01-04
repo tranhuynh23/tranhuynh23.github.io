@@ -4,7 +4,7 @@ title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
-[The Price of Silence: Local Newspaper Closures and Mortgage Pricing](https://www.dropbox.com/scl/fi/orstwq78g4v6kx4lkgvjt/MMP_20251125.pdf?rlkey=tbwxc97882yadayzqvjtfea1m&st=qswkobso&dl=0)
+[The Price of Silence: Local Newspaper Closures and Mortgage Pricing]
 ------
 Submitted
 
