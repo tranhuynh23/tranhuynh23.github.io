@@ -6,7 +6,7 @@ author_profile: true
 ---
 The Price of Silence: Local Newspaper Closures and Mortgage Pricing
 ------
-Revise and Resubmit, Review of Finance.
+Revise and Resubmit, Review of Finance
 
 with [Huyen Nguyen](https://sites.google.com/view/huyenngocphuongnguyen/)
 
